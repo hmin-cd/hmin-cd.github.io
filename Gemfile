@@ -1,12 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-plugins:
-  - jekyll-toc
-  - jekyll-feed
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-paginate-v2
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
